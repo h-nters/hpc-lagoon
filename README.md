@@ -1,6 +1,6 @@
 # hpc-lagoon
 
-A lightweight Linux HPC node built completely from source using LFS. This project explores systems internals, performance benchmarking, and minimal HPC clustering from the ground up.
+A lightweight Linux HPC node built completely from source using LFS. Project explores systems internals, performance benchmarking, and minimal HPC clustering.
 
 ## Goals
 - Build a minimal Linux OS using Linux From Scratch (LFS)
@@ -9,7 +9,7 @@ A lightweight Linux HPC node built completely from source using LFS. This projec
 - Learn, document, and share the entire process
 
 ## Why?
-I’m focusing on high-performance computing, systems, and datacenter engineering—and I want full control from bootloader to benchmark.
+Focusing on high-performance computing, systems, and datacenter engineering—and I want full control from bootloader to benchmark.
 
 ## Timeline
 See `/docs/lfs-notes.md` for detailed progress.
