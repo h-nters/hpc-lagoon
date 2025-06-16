@@ -12,7 +12,7 @@ A lightweight Linux HPC node built completely from source using LFS. Project exp
 Focusing on high-performance computing, systems, and datacenter engineering—and I want full control from bootloader to benchmark.
 
 ## Timeline
-See `/docs/lfs-notes.md` for detailed progress.
+See `/docs/notes.md` for detailed progress.
 
 ## Stack
 - LFS + custom kernel
